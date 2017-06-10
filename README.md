@@ -16,3 +16,8 @@ introductory tutorial for anyone learnign javaScript.
   - Using `slice()` to copy an array
   - Using `splice()` to remove items from an array
 - Working with random numbers
+- Creating classes with JavaScript
+  - Creating class objects using the function syntax
+  - Adding methods to a class object with the prototype chain
+  
+  ![cover image](./cover.png)
