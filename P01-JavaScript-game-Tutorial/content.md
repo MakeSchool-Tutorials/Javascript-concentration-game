@@ -7,7 +7,7 @@ Getting started, the first step will be to create a new file and set up the HTML
 
 # Step 1 - index.html
 
-1. Make a new text file and add the boilerplate HTML. 
+Make a new text file and add the boilerplate HTML. 
 
 ```
 <!doctype html>
@@ -100,7 +100,7 @@ in a "drawer" div, which will be wrapped in a another div that will act as a "wi
 
 Here is a picture: 
 
-![game-square-anatomy](./game-square-anatomy.png)
+![game-square-anatomy](../game-square-anatomy.png)
 
 The "drawer" will slide up and down via the magic of CSS. Normally the "drawer" will align it's top
 edge with the top of the "window". When we add the "flip" class it will slide up revealing the 
@@ -108,7 +108,7 @@ edge with the top of the "window". When we add the "flip" class it will slide up
 
 Here is a picture:
 
-![game-square-transition](./game-square-transition.png)
+![game-square-transition](../game-square-transition.png)
 
 # Step 4 - game-square styles
 
