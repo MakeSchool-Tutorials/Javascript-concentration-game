@@ -17,20 +17,20 @@ Make a new text file and add the boilerplate HTML.
     <title>Game</title>
     <style>
       /* CSS here */
->      
+      
     </style>
   </head>
   <body>
     <!-- HTML here -->
->     
+     
     <script>
       // JS Code here
- >     
+      
     </script>
   </body>
 </html>
 ```
->
+
 
 The tags represent HTML elements. You will be writing code in three different languages within 
 this single document. Notice the comments, there are three different types of comments. 
