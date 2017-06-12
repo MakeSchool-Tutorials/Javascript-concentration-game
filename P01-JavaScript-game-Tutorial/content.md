@@ -9,6 +9,7 @@ Getting started, the first step will be to create a new file and set up the HTML
 
 Make a new text file and add the boilerplate HTML. 
 
+> [solution]
 ```
 <!doctype html>
 <html>
@@ -29,6 +30,7 @@ Make a new text file and add the boilerplate HTML.
   </body>
 </html>
 ```
+
 
 The tags represent HTML elements. You will be writing code in three different languages within 
 this single document. Notice the comments, there are three different types of comments. 
