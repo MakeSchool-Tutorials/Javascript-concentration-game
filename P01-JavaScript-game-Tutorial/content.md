@@ -9,6 +9,7 @@ Getting started, the first step will be to create a new file and set up the HTML
 
 Make a new text file and add the boilerplate HTML. 
 
+
 ```
 <!doctype html>
 <html>
